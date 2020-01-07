@@ -7,7 +7,7 @@
 #### 1. In Administratir CMD run this Command
 
     
-    C:\Program Files\Windows Defender\MpCmdRun.exe -RemoveDefinitions -All Set-Mp Preference -DisableIOAVProtection $true
+    C:\Program Files\Windows Defender\MpCmdRun.exe -RemoveDefinitions -All -Set-Mp Preference -DisableIOAVProtection $true
     
 
 #### 2. Powershell
